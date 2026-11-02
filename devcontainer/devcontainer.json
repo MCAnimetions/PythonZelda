@@ -8,5 +8,5 @@
       ]
     }
   },
-  "postCreateCommand": "pip install --no-cache-dir -r requirements.txt && echo 'Setup complete! Run the game by typing: python zelda.py'"
+  "postCreateCommand": "pip install --no-cache-dir -r requirements.txt && echo 'Setup complete! Run the game by typing: python game.py'"
 }
